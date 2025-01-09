@@ -1,4 +1,4 @@
-#Android kv benchmark by BillyWei01/FastKV.
+# Android kv benchmark by BillyWei01/FastKV.
 ## 性能测试
 - 测试数据：搜集APP中的SharePreferences汇总的部份key-value数据（经过随机混淆）得到总共六百多个key-value。<br>
   分别截取其中一部分，构造正态分布的输入序列，进行多次测试。
